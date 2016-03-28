@@ -1,6 +1,12 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench />
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.AttachToProcess" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Player\PlayerController.cs">
+    <Files>
+      <File FileName="Assets\Script\Player\PlayerController.cs" Line="47" Column="3" />
+      <File FileName="Assets\Script\Player\PlayerDefense.cs" Line="21" Column="17" />
+      <File FileName="Assets\Script\Player\PlayerAttack.cs" Line="9" Column="5" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
